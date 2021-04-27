@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-dnsimple
+module github.com/dnsimple/terraform-provider-dnsimple
 
 require (
 	github.com/dnsimple/dnsimple-go v0.61.0
